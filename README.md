@@ -1,0 +1,1 @@
+# VivaPoints-Autotest
